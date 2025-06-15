@@ -15,7 +15,7 @@ const AFPSAT = () => {
   }, [dispatch]);
 
   useEffect(() => {
-    if (questions.length > 0) {
+    if (Array.isArray(questions) && questions.length > 0) {
       const shuffled = [...questions].sort(() => 0.5 - Math.random());
       const selected = shuffled.slice(0, 10);
       setShuffledQuestions(selected);
@@ -56,7 +56,6 @@ const AFPSAT = () => {
         setAnswers({});
         setScore(null);
       }
-      
     });
   };
 
@@ -65,37 +64,45 @@ const AFPSAT = () => {
       <h2 className="text-2xl font-bold text-center text-blue-700 mb-6">AFPSAT Reviewer</h2>
       <p className="text-gray-600 mb-4">Welcome to the Armed Forces of the Philippines reviewer section.</p>
 
-      <form className="space-y-2" onSubmit={handleSubmit}>
-        {shuffledQuestions.map((question, questionIndex) => (
-          <div key={questionIndex} className="bg-gray-50 px-6 py-4 rounded-md shadow-sm">
-            <p className="font-semibold text-gray-800 mb-3">
-              {questionIndex + 1}. {question.question}
-            </p>
+      {loading ? (
+        <p className="text-center text-gray-500">Loading questions...</p>
+      ) : error ? (
+        <p className="text-center text-red-500">Error loading questions.</p>
+      ) : shuffledQuestions.length === 0 ? (
+        <p className="text-center text-gray-500">No questions available.</p>
+      ) : (
+        <form className="space-y-2" onSubmit={handleSubmit}>
+          {shuffledQuestions.map((question, questionIndex) => (
+            <div key={questionIndex} className="bg-gray-50 px-6 py-4 rounded-md shadow-sm">
+              <p className="font-semibold text-gray-800 mb-3">
+                {questionIndex + 1}. {question.question}
+              </p>
 
-            <div className="space-y-1">
-              {question.choices.map((choice, choiceIndex) => (
-                <label key={choiceIndex} className="flex items-center space-x-3 cursor-pointer">
-                  <input
-                    type="radio"
-                    name={`question-${questionIndex}`}
-                    value={choice}
-                    checked={answers[questionIndex] === choice}
-                    onChange={() => handleAnswerChange(questionIndex, choice)}
-                    className="form-radio text-blue-600 focus:ring-blue-400"
-                  />
-                  <span className="text-gray-700">{choice}</span>
-                </label>
-              ))}
+              <div className="space-y-1">
+                {question.choices.map((choice, choiceIndex) => (
+                  <label key={choiceIndex} className="flex items-center space-x-3 cursor-pointer">
+                    <input
+                      type="radio"
+                      name={`question-${questionIndex}`}
+                      value={choice}
+                      checked={answers[questionIndex] === choice}
+                      onChange={() => handleAnswerChange(questionIndex, choice)}
+                      className="form-radio text-blue-600 focus:ring-blue-400"
+                    />
+                    <span className="text-gray-700">{choice}</span>
+                  </label>
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
 
-        <div className="text-center">
-          <button type="submit" className="bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-2 mt-2 rounded-lg transition duration-200">
-            Submit
-          </button>
-        </div>
-      </form>
+          <div className="text-center">
+            <button type="submit" className="bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-2 mt-2 rounded-lg transition duration-200">
+              Submit
+            </button>
+          </div>
+        </form>
+      )}
     </div>
   );
 };

@@ -1,9 +1,11 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
+const PUBLIC_URL = process.env.REACT_APP_PUBLIC_URL;
+
 export const fetchAFPSATData = createAsyncThunk('afpsat/fetchData', async () => {
   try {
-    const response = await axios.get('/data/afpsat.json');
+    const response = await axios.get(`${PUBLIC_URL}/data/afpsat.json`);
     console.log('fetchAFPSATData response:', response);
     return response.data;
   } catch (error) {
