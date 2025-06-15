@@ -9,8 +9,8 @@ const Navbar = () => {
           <Link to="/" className="hover:underline">
             Home
           </Link>
-          <Link to="/afp" className="hover:underline">
-            AFP
+          <Link to="/afpsat" className="hover:underline">
+            AFPSAT
           </Link>
           <Link to="/cse" className="hover:underline">
             CSE

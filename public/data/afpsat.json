@@ -103,5 +103,1505 @@
     "choices": ["30", "25", "50", "45"],
     "answer": "30",
     "type": "multiple-choice"
+  },
+  {
+    "id": 16,
+    "question": "What is the next number in the sequence: 5, 10, 20, 40, ___?",
+    "choices": ["80", "60", "100", "75"],
+    "answer": "80",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 17,
+    "question": "Find the greatest common divisor (GCD) of 12 and 18.",
+    "choices": ["6", "12", "18", "3"],
+    "answer": "6",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 18,
+    "question": "The word 'perseverance' means:",
+    "choices": ["Determination", "Laziness", "Hesitation", "Neglect"],
+    "answer": "Determination",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 19,
+    "question": "What is the square root of 144?",
+    "choices": ["12", "14", "16", "18"],
+    "answer": "12",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 20,
+    "question": "What is the antonym of 'optimistic'?",
+    "choices": ["Pessimistic", "Hopeful", "Cheerful", "Positive"],
+    "answer": "Pessimistic",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 21,
+    "question": "What is the value of 7 × 9?",
+    "choices": ["63", "72", "49", "56"],
+    "answer": "63",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 22,
+    "question": "The synonym of 'fragile' is:",
+    "choices": ["Delicate", "Strong", "Rough", "Tough"],
+    "answer": "Delicate",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a compound word?",
+    "choices": ["Basketball", "House", "Tree", "Light"],
+    "answer": "Basketball",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 24,
+    "question": "Solve: 5² – 3",
+    "choices": ["22", "23", "20", "25"],
+    "answer": "22",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 25,
+    "question": "How many sides does a hexagon have?",
+    "choices": ["6", "5", "8", "4"],
+    "answer": "6",
+    "type": "multiple-choice",
+    "exam": "AFPSAT II"
+  },
+  {
+    "id": 26,
+    "question": "What is the next number in the sequence: 5, 10, 20, 40, ___?",
+    "choices": ["80", "60", "100", "75"],
+    "answer": "80",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 27,
+    "question": "Find the greatest common divisor (GCD) of 12 and 18.",
+    "choices": ["6", "12", "18", "3"],
+    "answer": "6",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 28,
+    "question": "The word 'perseverance' means:",
+    "choices": ["Determination", "Laziness", "Hesitation", "Neglect"],
+    "answer": "Determination",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 29,
+    "question": "What is the square root of 144?",
+    "choices": ["12", "14", "16", "18"],
+    "answer": "12",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 30,
+    "question": "What is the antonym of 'optimistic'?",
+    "choices": ["Pessimistic", "Hopeful", "Cheerful", "Positive"],
+    "answer": "Pessimistic",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 31,
+    "question": "What is the value of 7 × 9?",
+    "choices": ["63", "72", "49", "56"],
+    "answer": "63",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 32,
+    "question": "The synonym of 'fragile' is:",
+    "choices": ["Delicate", "Strong", "Rough", "Tough"],
+    "answer": "Delicate",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is a compound word?",
+    "choices": ["Basketball", "House", "Tree", "Light"],
+    "answer": "Basketball",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 34,
+    "question": "Solve: 5² – 3",
+    "choices": ["22", "23", "20", "25"],
+    "answer": "22",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 35,
+    "question": "How many sides does a hexagon have?",
+    "choices": ["6", "5", "8", "4"],
+    "answer": "6",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 36,
+    "question": "What is the next letter in the sequence: A, C, E, G, ___?",
+    "choices": ["I", "J", "K", "L"],
+    "answer": "I",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 37,
+    "question": "If 8x = 64, what is x?",
+    "choices": ["8", "6", "10", "4"],
+    "answer": "8",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a prime number?",
+    "choices": ["17", "21", "15", "9"],
+    "answer": "17",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 39,
+    "question": "What is the antonym of 'rapid'?",
+    "choices": ["Slow", "Quick", "Swift", "Fast"],
+    "answer": "Slow",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 40,
+    "question": "What is 9 + 6?",
+    "choices": ["15", "14", "12", "13"],
+    "answer": "15",
+    "type": "multiple-choice",
+    "exam": "AFPSAT III"
+  },
+  {
+    "id": 41,
+    "question": "What is the capital of the Philippines?",
+    "choices": ["Manila", "Cebu", "Davao", "Iloilo"],
+    "answer": "Manila",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 42,
+    "question": "What is the value of π (pi) to two decimal places?",
+    "choices": ["3.14", "3.15", "3.16", "3.13"],
+    "answer": "3.14",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 43,
+    "question": "What is the largest planet in our solar system?",
+    "choices": ["Jupiter", "Saturn", "Earth", "Mars"],
+    "answer": "Jupiter",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 44,
+    "question": "What is the chemical symbol for water?",
+    "choices": ["H2O", "O2", "CO2", "H2"],
+    "answer": "H2O",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 45,
+    "question": "Which element has the atomic number 1?",
+    "choices": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "answer": "Hydrogen",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 46,
+    "question": "Who wrote the play \"Romeo and Juliet\"?",
+    "choices": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+    "answer": "William Shakespeare",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 47,
+    "question": "What is the freezing point of water in degrees Celsius?",
+    "choices": ["0", "32", "100", "50"],
+    "answer": "0",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 48,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choices": ["Japan", "China", "Thailand", "South Korea"],
+    "answer": "Japan",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 49,
+    "question": "What is the process of converting a liquid into a gas called?",
+    "choices": ["Evaporation", "Condensation", "Precipitation", "Sublimation"],
+    "answer": "Evaporation",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 50,
+    "question": "What is the capital of France?",
+    "choices": ["Paris", "Rome", "Berlin", "Madrid"],
+    "answer": "Paris",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 51,
+    "question": "What is the square root of 64?",
+    "choices": ["8", "7", "9", "6"],
+    "answer": "8",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 52,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "choices": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 53,
+    "question": "In which continent is Egypt located?",
+    "choices": ["Africa", "Asia", "Europe", "South America"],
+    "answer": "Africa",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 54,
+    "question": "What is the hardest natural substance on Earth?",
+    "choices": ["Diamond", "Gold", "Iron", "Quartz"],
+    "answer": "Diamond",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 55,
+    "question": "What is the main language spoken in Brazil?",
+    "choices": ["Portuguese", "Spanish", "English", "French"],
+    "answer": "Portuguese",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 56,
+    "question": "What is the currency of Japan?",
+    "choices": ["Yen", "Won", "Dollar", "Peso"],
+    "answer": "Yen",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 57,
+    "question": "Which ocean is the largest?",
+    "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 58,
+    "question": "What is the smallest country in the world?",
+    "choices": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "answer": "Vatican City",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 59,
+    "question": "What is the main gas found in the air we breathe?",
+    "choices": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 60,
+    "question": "Who was the first President of the United States?",
+    "choices": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "answer": "George Washington",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IV"
+  },
+  {
+    "id": 61,
+    "question": "Which battle is considered the turning point of the American Civil War?",
+    "choices": ["Battle of Gettysburg", "Battle of Antietam", "Battle of Bull Run", "Battle of Vicksburg"],
+    "answer": "Battle of Gettysburg",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 62,
+    "question": "What is the main theme of George Orwell's \"1984\"?",
+    "choices": ["Totalitarianism", "Democracy", "Freedom", "Love"],
+    "answer": "Totalitarianism",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 63,
+    "question": "In which year did the United States land the first man on the moon?",
+    "choices": ["1969", "1971", "1965", "1973"],
+    "answer": "1969",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 64,
+    "question": "Which element is most abundant in the universe?",
+    "choices": ["Hydrogen", "Oxygen", "Carbon", "Helium"],
+    "answer": "Hydrogen",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 65,
+    "question": "What was the primary cause of the Cold War?",
+    "choices": ["Ideological differences", "Territorial disputes", "Economic competition", "Colonialism"],
+    "answer": "Ideological differences",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following is a fundamental principle of the U.S. Constitution?",
+    "choices": ["Separation of powers", "Monarchy", "Communism", "Totalitarianism"],
+    "answer": "Separation of powers",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 67,
+    "question": "Which scientist proposed the theory of natural selection?",
+    "choices": ["Charles Darwin", "Gregor Mendel", "Isaac Newton", "Albert Einstein"],
+    "answer": "Charles Darwin",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 68,
+    "question": "What is the capital city of Canada?",
+    "choices": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": "Ottawa",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 69,
+    "question": "Which amendment to the U.S. Constitution abolished slavery?",
+    "choices": ["13th Amendment", "14th Amendment", "15th Amendment", "16th Amendment"],
+    "answer": "13th Amendment",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 70,
+    "question": "What is the smallest prime number?",
+    "choices": ["2", "1", "3", "4"],
+    "answer": "2",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 71,
+    "question": "Which ancient civilization is known for its pyramids?",
+    "choices": ["Egyptian", "Greek", "Roman", "Mayan"],
+    "answer": "Egyptian",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 72,
+    "question": "What is the process of cell division called?",
+    "choices": ["Mitosis", "Meiosis", "Cytokinesis", "Apoptosis"],
+    "answer": "Mitosis",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 73,
+    "question": "Which famous scientist developed the theory of general relativity?",
+    "choices": ["Albert Einstein", "Niels Bohr", "Galileo Galilei", "Stephen Hawking"],
+    "answer": "Albert Einstein",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 74,
+    "question": "What is the currency used in the European Union?",
+    "choices": ["Euro", "Pound", "Dollar", "Franc"],
+    "answer": "Euro",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 75,
+    "question": "Which novel begins with the line \"Call me Ishmael\"?",
+    "choices": ["Moby Dick", "The Great Gatsby", "1984", "Pride and Prejudice"],
+    "answer": "Moby Dick",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 76,
+    "question": "Which philosopher is known for the phrase \"I think, therefore I am\"?",
+    "choices": ["René Descartes", "Friedrich Nietzsche", "Immanuel Kant", "Socrates"],
+    "answer": "René Descartes",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 77,
+    "question": "Which treaty ended World War I?",
+    "choices": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Ghent", "Treaty of Tordesillas"],
+    "answer": "Treaty of Versailles",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 78,
+    "question": "What is the primary function of the liver in the human body?",
+    "choices": ["Detoxification", "Oxygen transport", "Hormone production", "Nutrient absorption"],
+    "answer": "Detoxification",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 79,
+    "question": "Which planet is known as the \"Red Planet\"?",
+    "choices": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": "Mars",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 80,
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "choices": ["France", "Germany", "Italy", "England"],
+    "answer": "France",
+    "type": "multiple-choice",
+    "exam": "AFPSAT V"
+  },
+  {
+    "id": 81,
+    "question": "Maria wanted to buy a new dress for her friend's wedding. What does the word \"buy\" mean in this context?",
+    "choices": ["To purchase", "To borrow", "To steal", "To trade"],
+    "answer": "To purchase",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 82,
+    "question": "During the summer festival in Batangas, Juan saw many vendors selling \"kakanin.\" What does \"kakanin\" refer to?",
+    "choices": ["Rice cakes", "Souvenirs", "Vegetables", "Fruits"],
+    "answer": "Rice cakes",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 83,
+    "question": "When Liza said, \"I need to go to the palengke,\" what is she referring to?",
+    "choices": ["The market", "The school", "The church", "The mall"],
+    "answer": "The market",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 84,
+    "question": "In a conversation, Mark said, \"It's raining cats and dogs outside.\" What does this expression mean?",
+    "choices": ["It's raining heavily", "There are many animals outside", "It is sunny", "The weather is nice"],
+    "answer": "It's raining heavily",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 85,
+    "question": "During the Barangay meeting, Chairwoman Ana emphasized the importance of \"bayanihan.\" What does \"bayanihan\" mean?",
+    "choices": ["Community spirit", "Competition", "Individualism", "Independence"],
+    "answer": "Community spirit",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 86,
+    "question": "What does the phrase \"nagpapanggap na masaya\" mean when used to describe Carla during the family gathering?",
+    "choices": ["Pretending to be happy", "Being genuinely happy", "Always sad", "Never smiling"],
+    "answer": "Pretending to be happy",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 87,
+    "question": "What does \"salamat po\" mean when used by children when addressing elders?",
+    "choices": ["Thank you", "Goodbye", "Hello", "Please"],
+    "answer": "Thank you",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 88,
+    "question": "While discussing their summer vacation plans, Miguel said he wants to \"magtampisaw\" in the beach. What does this mean?",
+    "choices": ["To wade or splash around", "To sunbathe", "To build a sandcastle", "To swim"],
+    "answer": "To wade or splash around",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 89,
+    "question": "When discussing her plans for a new business, Jen said she needs to do \"pananaliksik.\" What does this mean?",
+    "choices": ["Research", "Marketing", "Selling", "Advertising"],
+    "answer": "Research",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 90,
+    "question": "During the fiesta, the town mayor, Mayor Lito, announced that there would be \"palaro.\" What is a \"palaro\"?",
+    "choices": ["A sports event", "A food festival", "A concert", "A dance competition"],
+    "answer": "A sports event",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 91,
+    "question": "In a discussion about environmental conservation, Rachel mentioned the term \"kalikasan.\" What does \"kalikasan\" mean?",
+    "choices": ["Nature", "Technology", "Economy", "Society"],
+    "answer": "Nature",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 92,
+    "question": "When discussing local delicacies, Alex mentioned \"adobo.\" What is \"adobo\"?",
+    "choices": ["A traditional dish", "A type of fruit", "A dessert", "A beverage"],
+    "answer": "A traditional dish",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 93,
+    "question": "When his friends said he should \"mangutang\" for the project, what does \"mangutang\" mean?",
+    "choices": ["To borrow money", "To lend money", "To invest", "To save"],
+    "answer": "To borrow money",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 94,
+    "question": "During a family reunion, Lola Teresa shared stories about \"mga bayani.\" Who are \"mga bayani\"?",
+    "choices": ["Heroes", "Villains", "Kings", "Nobles"],
+    "answer": "Heroes",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 95,
+    "question": "When discussing his favorite hobby, Rico mentioned \"pagpinta.\" What does \"pagpinta\" mean?",
+    "choices": ["Painting", "Writing", "Sculpting", "Singing"],
+    "answer": "Painting",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 96,
+    "question": "In a conversation about his family's history, Carlos referred to his \"lolo.\" Who is his \"lolo\"?",
+    "choices": ["Grandfather", "Uncle", "Cousin", "Brother"],
+    "answer": "Grandfather",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 97,
+    "question": "During the barangay assembly, the term \"dapat\" was emphasized by the barangay captain. What does \"dapat\" mean?",
+    "choices": ["Should", "Could", "Must not", "Might"],
+    "answer": "Should",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 98,
+    "question": "During their field trip to a rice field, the teacher told the students about \"pag-aani.\" What does \"pag-aani\" refer to?",
+    "choices": ["Harvesting", "Planting", "Selling", "Buying"],
+    "answer": "Harvesting",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 99,
+    "question": "During their discussion about national pride, Tanya mentioned \"Watawat ng Pilipinas.\" What does this term refer to?",
+    "choices": ["The Philippine flag", "The national anthem", "A traditional dance", "A historical monument"],
+    "answer": "The Philippine flag",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 100,
+    "question": "When talking about his family's traditions, Marco said they celebrate \"Pasko.\" What does \"Pasko\" mean?",
+    "choices": ["Christmas", "New Year", "Easter", "Halloween"],
+    "answer": "Christmas",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VI"
+  },
+  {
+    "id": 101,
+    "question": "If 5x + 3 = 28, what is the value of x?",
+    "choices": ["5", "6", "4", "7"],
+    "answer": "5",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 102,
+    "question": "The area of a rectangle is 60 square meters, and its length is 10 meters. What is its width?",
+    "choices": ["6 meters", "5 meters", "4 meters", "8 meters"],
+    "answer": "6 meters",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 103,
+    "question": "If a triangle has sides measuring 5 cm, 12 cm, and 13 cm, what type of triangle is it?",
+    "choices": ["Right triangle", "Acute triangle", "Obtuse triangle", "Equilateral triangle"],
+    "answer": "Right triangle",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 104,
+    "question": "What is the value of the expression 3(2 + 4) - 5?",
+    "choices": ["13", "16", "18", "8"],
+    "answer": "13",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 105,
+    "question": "If a car travels 150 kilometers in 2 hours, what is its average speed in kilometers per hour?",
+    "choices": ["75 km/h", "80 km/h", "90 km/h", "70 km/h"],
+    "answer": "75 km/h",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 106,
+    "question": "The sum of two angles is 90 degrees. If one angle measures 30 degrees, what is the measure of the other angle?",
+    "choices": ["60 degrees", "30 degrees", "45 degrees", "90 degrees"],
+    "answer": "60 degrees",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 107,
+    "question": "What is the greatest common divisor (GCD) of 36 and 48?",
+    "choices": ["12", "6", "18", "24"],
+    "answer": "12",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 108,
+    "question": "What is the solution to the equation 2x - 4 = 10?",
+    "choices": ["7", "5", "8", "6"],
+    "answer": "7",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 109,
+    "question": "If the radius of a circle is 7 cm, what is its circumference? (Use π ≈ 3.14)",
+    "choices": ["43.96 cm", "44.0 cm", "41.8 cm", "39.24 cm"],
+    "answer": "43.96 cm",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 110,
+    "question": "In a sequence of numbers, if the first term is 2 and the common difference is 3, what is the 5th term?",
+    "choices": ["14", "15", "12", "16"],
+    "answer": "14",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 111,
+    "question": "What is the probability of rolling a 4 on a standard six-sided die?",
+    "choices": ["1/6", "1/2", "1/3", "1/4"],
+    "answer": "1/6",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 112,
+    "question": "A store is offering a 20% discount on a shirt originally priced at 500 PHP. What is the sale price?",
+    "choices": ["400 PHP", "420 PHP", "450 PHP", "380 PHP"],
+    "answer": "400 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 113,
+    "question": "What is the value of x in the equation 3x + 5 = 20?",
+    "choices": ["5", "4", "3", "6"],
+    "answer": "5",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 114,
+    "question": "If the sum of angles in a triangle is 180 degrees, what is the measure of the third angle if the other two angles are 50 degrees and 60 degrees?",
+    "choices": ["70 degrees", "60 degrees", "50 degrees", "80 degrees"],
+    "answer": "70 degrees",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 115,
+    "question": "If a pizza is cut into 8 equal slices and you eat 3, what fraction of the pizza is left?",
+    "choices": ["5/8", "3/8", "2/8", "4/8"],
+    "answer": "5/8",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 116,
+    "question": "A bag contains 4 red, 5 blue, and 3 green marbles. What is the probability of randomly selecting a red marble?",
+    "choices": ["4/12", "5/12", "1/3", "1/4"],
+    "answer": "4/12",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 117,
+    "question": "If you buy 3 pens at 20 PHP each and 2 notebooks at 50 PHP each, how much will you spend in total?",
+    "choices": ["160 PHP", "150 PHP", "130 PHP", "140 PHP"],
+    "answer": "160 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 118,
+    "question": "What is the next number in the sequence 2, 4, 8, 16, ...?",
+    "choices": ["32", "24", "30", "28"],
+    "answer": "32",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 119,
+    "question": "If a train travels 60 km in 1 hour, how long will it take to travel 240 km at the same speed?",
+    "choices": ["4 hours", "3 hours", "5 hours", "6 hours"],
+    "answer": "4 hours",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 120,
+    "question": "What is the slope of the line passing through the points (1, 2) and (3, 6)?",
+    "choices": ["2", "1", "3", "4"],
+    "answer": "2",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VII"
+  },
+  {
+    "id": 121,
+    "question": "Juan has twice as many apples as Maria. If together they have 30 apples, how many apples does Maria have?",
+    "choices": ["10", "15", "5", "12"],
+    "answer": "10",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 122,
+    "question": "In a school, 60% of the students are girls. If there are 240 students, how many are boys?",
+    "choices": ["96", "100", "104", "120"],
+    "answer": "96",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 123,
+    "question": "A rectangular garden has a length that is 4 meters longer than its width. If the perimeter is 28 meters, what are the dimensions of the garden?",
+    "choices": ["8m x 4m", "10m x 6m", "6m x 10m", "12m x 8m"],
+    "answer": "8m x 4m",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 124,
+    "question": "If the ratio of the ages of Lito and Rina is 3:4 and the sum of their ages is 56, how old is Lito?",
+    "choices": ["24", "21", "28", "32"],
+    "answer": "24",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 125,
+    "question": "In a fishing contest, Pedro caught 3 times as many fish as Carlos. If together they caught 48 fish, how many did Pedro catch?",
+    "choices": ["36", "24", "12", "18"],
+    "answer": "36",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 126,
+    "question": "A store has a sale of 25% off on all items. If a pair of shoes originally costs 1,200 PHP, what is the sale price?",
+    "choices": ["900 PHP", "1,000 PHP", "950 PHP", "850 PHP"],
+    "answer": "900 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 127,
+    "question": "What is the area of a circle with a radius of 7 cm? (Use π ≈ 3.14)",
+    "choices": ["154 cm²", "140 cm²", "150 cm²", "144 cm²"],
+    "answer": "154 cm²",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 128,
+    "question": "In a classroom, 3/5 of the students are boys. If there are 50 students in total, how many are girls?",
+    "choices": ["20", "30", "25", "15"],
+    "answer": "20",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 129,
+    "question": "A jeepney fare is 8 PHP for the first 4 kilometers and 1.50 PHP for every additional kilometer. How much would a fare be for a 10-kilometer trip?",
+    "choices": ["16 PHP", "15 PHP", "14 PHP", "12 PHP"],
+    "answer": "16 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 130,
+    "question": "If 2 bananas and 3 apples cost 100 PHP and 3 bananas and 2 apples cost 90 PHP, what is the cost of one banana?",
+    "choices": ["30 PHP", "20 PHP", "40 PHP", "10 PHP"],
+    "answer": "30 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 131,
+    "question": "A school has a total of 300 students, and 40% are enrolled in sports. How many students are not enrolled in sports?",
+    "choices": ["180", "120", "150", "100"],
+    "answer": "180",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 132,
+    "question": "What is the value of x in the equation 5x - 3 = 2x + 12?",
+    "choices": ["5", "3", "6", "4"],
+    "answer": "5",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 133,
+    "question": "If the product of two consecutive integers is 72, what are the integers?",
+    "choices": ["8 and 9", "6 and 7", "5 and 6", "9 and 10"],
+    "answer": "8 and 9",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 134,
+    "question": "After a 20% increase, the price of a book is now 360 PHP. What was the original price?",
+    "choices": ["300 PHP", "280 PHP", "250 PHP", "320 PHP"],
+    "answer": "300 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 135,
+    "question": "Manila’s population is 1.78 million. If the population grows at a rate of 3% per year, what will be the population in 5 years?",
+    "choices": ["Approximately 2.06 million", "Approximately 1.88 million", "Approximately 2.15 million", "Approximately 1.95 million"],
+    "answer": "Approximately 2.06 million",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 136,
+    "question": "A local bakery sells cupcakes for 15 PHP each and cookies for 10 PHP each. If Juan bought 4 cupcakes and 6 cookies, how much did he spend?",
+    "choices": ["90 PHP", "80 PHP", "100 PHP", "70 PHP"],
+    "answer": "90 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 137,
+    "question": "The lengths of the sides of a triangle are in the ratio 3:4:5. If the perimeter is 36 cm, what is the length of the longest side?",
+    "choices": ["15 cm", "12 cm", "9 cm", "18 cm"],
+    "answer": "15 cm",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 138,
+    "question": "If a car travels 180 km in 3 hours, what is its average speed in km/h?",
+    "choices": ["60 km/h", "50 km/h", "70 km/h", "55 km/h"],
+    "answer": "60 km/h",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 139,
+    "question": "If a box can hold 8 kg of rice, how many boxes are needed to hold 80 kg?",
+    "choices": ["10", "8", "12", "6"],
+    "answer": "10",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 140,
+    "question": "The sum of the ages of two siblings, Carla and Eric, is 30 years. If Carla is twice as old as Eric, how old is Eric?",
+    "choices": ["10 years", "12 years", "15 years", "8 years"],
+    "answer": "10 years",
+    "type": "multiple-choice",
+    "exam": "AFPSAT VIII"
+  },
+  {
+    "id": 141,
+    "question": "Maria bought 3 notebooks for 75 PHP each and 2 pens for 20 PHP each. How much did she spend in total?",
+    "choices": ["240 PHP", "200 PHP", "230 PHP", "265 PHP"],
+    "answer": "240 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 142,
+    "question": "A farmer has a rectangular field that is 80 meters long and 60 meters wide. If he wants to plant grass, what is the area of the field?",
+    "choices": ["4800 m²", "4200 m²", "5000 m²", "3600 m²"],
+    "answer": "4800 m²",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 143,
+    "question": "If 5 kg of rice costs 250 PHP, how much will 8 kg cost?",
+    "choices": ["400 PHP", "400 PHP", "450 PHP", "500 PHP"],
+    "answer": "400 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 144,
+    "question": "A local bookstore has a promotion: buy 2 books and get 1 free. If each book costs 300 PHP, how much will it cost to buy 5 books?",
+    "choices": ["600 PHP", "900 PHP", "700 PHP", "1200 PHP"],
+    "answer": "900 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 145,
+    "question": "The ages of siblings, Anton and Bea, are in the ratio of 3:5. If the sum of their ages is 48 years, how old is Anton?",
+    "choices": ["18 years", "20 years", "22 years", "16 years"],
+    "answer": "18 years",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 146,
+    "question": "If the perimeter of a square is 64 meters, what is the length of one side?",
+    "choices": ["16 meters", "18 meters", "12 meters", "24 meters"],
+    "answer": "16 meters",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 147,
+    "question": "If a box contains 60 pieces of fruit, and 25% of them are mangoes, how many mangoes are in the box?",
+    "choices": ["20 mangoes", "15 mangoes", "10 mangoes", "25 mangoes"],
+    "answer": "20 mangoes",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 148,
+    "question": "A construction project requires 240 hours of work. If 6 workers are assigned to the project, how many hours will each worker need to work to finish the project?",
+    "choices": ["40 hours", "30 hours", "50 hours", "60 hours"],
+    "answer": "40 hours",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 149,
+    "question": "The sum of three consecutive integers is 42. What is the smallest of these integers?",
+    "choices": ["13", "14", "15", "12"],
+    "answer": "13",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 150,
+    "question": "There are 40 students in a class, and 70% of them passed the math exam. How many students failed the exam?",
+    "choices": ["8 students", "10 students", "12 students", "6 students"],
+    "answer": "12 students",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 151,
+    "question": "A boat travels downstream at a speed of 15 km/h and upstream at 10 km/h. What is the average speed of the boat for the entire trip?",
+    "choices": ["12 km/h", "13 km/h", "12.5 km/h", "14 km/h"],
+    "answer": "12.5 km/h",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 152,
+    "question": "The school cafeteria sells rice meals at 50 PHP each. If they sell 80 meals a day, what is their total revenue for a week?",
+    "choices": ["20,000 PHP", "30,000 PHP", "28,000 PHP", "35,000 PHP"],
+    "answer": "28,000 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 153,
+    "question": "A cylindrical water tank has a radius of 3 meters and a height of 4 meters. What is its volume? (Use π ≈ 3.14)",
+    "choices": ["113.04 m³", "20.76 m³", "40.68 m³", "113.04 m³"],
+    "answer": "113.04 m³",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 154,
+    "question": "If a rectangular garden has a length of 10 meters and a width of 5 meters, what is the length of the diagonal?",
+    "choices": ["15 m", "10 m", "11.18 m", "12 m"],
+    "answer": "11.18 m",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 155,
+    "question": "Two trains are traveling towards each other from a distance of 200 km apart. If Train A travels at 60 km/h and Train B at 80 km/h, how long will it take for them to meet?",
+    "choices": ["1.5 hours", "2 hours", "2.5 hours", "3 hours"],
+    "answer": "1.5 hours",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 156,
+    "question": "If a car depreciates by 15% annually and its current value is 200,000 PHP, what will be its value after one year?",
+    "choices": ["170,000 PHP", "180,000 PHP", "160,000 PHP", "150,000 PHP"],
+    "answer": "170,000 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 157,
+    "question": "The temperature in a city increased from 25°C to 40°C. What is the percentage increase in temperature?",
+    "choices": ["60%", "80%", "75%", "70%"],
+    "answer": "60%",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 158,
+    "question": "If a family spends 25% of their income on rent and their monthly income is 40,000 PHP, how much do they spend on rent?",
+    "choices": ["10,000 PHP", "12,000 PHP", "8,000 PHP", "15,000 PHP"],
+    "answer": "10,000 PHP",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 159,
+    "question": "A school plans to increase the number of classrooms from 12 to 18. What percentage increase in classrooms does this represent?",
+    "choices": ["40%", "50%", "45%", "33.33%"],
+    "answer": "50%",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 160,
+    "question": "The ratio of the lengths of two sides of a triangle is 4:5. If the longer side is 50 cm, what is the length of the shorter side?",
+    "choices": ["40 cm", "35 cm", "45 cm", "40 cm"],
+    "answer": "40 cm",
+    "type": "multiple-choice",
+    "exam": "AFPSAT IX"
+  },
+  {
+    "id": 161,
+    "question": "Maria has twice as many apples as Juan. If Juan has x apples, which of the following expressions represents the total number of apples Maria and Juan have together?",
+    "choices": ["x + 2x", "3x", "2x + x", "4x"],
+    "answer": "3x",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 162,
+    "question": "If 4(x - 5) + 2 = 10, what is the value of x?",
+    "choices": ["5", "4", "3", "7"],
+    "answer": "3",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 163,
+    "question": "In a school, the number of students is represented by s. If the math club has 1/5 of the total students and there are 30 students in the club, how many students are there in total?",
+    "choices": ["150", "200", "180", "120"],
+    "answer": "150",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 164,
+    "question": "For a family reunion, if the cost is 300 PHP per person and the total budget is 6000 PHP, how many people can attend?",
+    "choices": ["15", "20", "10", "30"],
+    "answer": "20",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 165,
+    "question": "If a store sells pens for 20 PHP each, and Maria buys x pens, which equation can be used to find the total cost if she spends 240 PHP?",
+    "choices": ["20x = 240", "x + 20 = 240", "x - 20 = 240", "240 - 20x = 0"],
+    "answer": "20x = 240",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 166,
+    "question": "In a school, there are x boys and 3x girls. If the total number of students is 120, how many boys are there?",
+    "choices": ["20", "30", "40", "50"],
+    "answer": "30",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 167,
+    "question": "Solve for x: 3(2x - 4) = 24.",
+    "choices": ["8", "6", "10", "12"],
+    "answer": "8",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 168,
+    "question": "John is 5 years older than his sister Maria. If Maria is m years old, which expression gives John's age?",
+    "choices": ["m + 5", "m - 5", "5m", "m"],
+    "answer": "m + 5",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 169,
+    "question": "If the perimeter of a rectangle is 50 cm and its length is twice its width, what is the width of the rectangle?",
+    "choices": ["10 cm", "15 cm", "20 cm", "25 cm"],
+    "answer": "10 cm",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 170,
+    "question": "A train travels at a speed of 80 km/h. How far will it travel in t hours?",
+    "choices": ["80t", "160t", "60t", "100t"],
+    "answer": "80t",
+    "type": "multiple-choice",
+    "exam": "AFPSAT X"
+  },
+  {
+    "id": 171,
+    "question": "Which word is the most opposite in meaning to the word 'amiable'?",
+    "choices": ["Hostile", "Friendly", "Approachable", "Pleasant"],
+    "answer": "Hostile",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 172,
+    "question": "Find the synonym of the word 'vital'.",
+    "choices": ["Insignificant", "Essential", "Unnecessary", "Superficial"],
+    "answer": "Essential",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 173,
+    "question": "Complete the analogy: 'Dog' is to 'Bark' as 'Cat' is to?",
+    "choices": ["Moo", "Chirp", "Meow", "Roar"],
+    "answer": "Meow",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 174,
+    "question": "Which word does not belong to the group?",
+    "choices": ["Apple", "Banana", "Grape", "Carrot"],
+    "answer": "Carrot",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 175,
+    "question": "Rearrange the following to form a complete sentence: 'on / the / sat / cat / mat'.",
+    "choices": ["The cat sat on the mat.", "The mat sat on the cat.", "Sat the mat on the cat.", "On the sat mat cat the."],
+    "answer": "The cat sat on the mat.",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 176,
+    "question": "Which sentence is grammatically correct?",
+    "choices": ["She don’t like ice cream.", "She doesn’t like ice cream.", "She aren’t like ice cream.", "She didn’t likes ice cream."],
+    "answer": "She doesn’t like ice cream.",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 177,
+    "question": "Select the word that best completes the sentence: He is a very _______ speaker and easily convinces his audience.",
+    "choices": ["Clumsy", "Persuasive", "Hesitant", "Inarticulate"],
+    "answer": "Persuasive",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 178,
+    "question": "Identify the best meaning of the idiom: 'Break the ice'.",
+    "choices": ["To literally crack ice", "To start a conversation", "To break something fragile", "To stop working"],
+    "answer": "To start a conversation",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 179,
+    "question": "Which pair of words best completes the sentence? 'The ________ dog barked at the _______ stranger.'",
+    "choices": ["Quiet, noisy", "Brave, timid", "Angry, unfamiliar", "Tame, friendly"],
+    "answer": "Angry, unfamiliar",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 180,
+    "question": "Which sentence uses correct punctuation?",
+    "choices": [
+      "She said, “Hello how are you?”",
+      "She said, “Hello, how are you?”",
+      "She said “Hello how are you?”",
+      "She said “Hello, how are you.”"
+    ],
+    "answer": "She said, “Hello, how are you?”",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 181,
+    "question": "Which word means the same as 'augment'?",
+    "choices": ["Reduce", "Eliminate", "Increase", "Destroy"],
+    "answer": "Increase",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 182,
+    "question": "Identify the misspelled word:",
+    "choices": ["Accommodate", "Acheive", "Available", "Recommend"],
+    "answer": "Acheive",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 183,
+    "question": "Which of the following sentences is in passive voice?",
+    "choices": [
+      "She completed the project on time.",
+      "The project was completed on time.",
+      "They are working on the project.",
+      "The project will be completed soon."
+    ],
+    "answer": "The project was completed on time.",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 184,
+    "question": "Choose the best word to complete the sentence: The scientist _______ the results carefully before publishing.",
+    "choices": ["Analyzed", "Ignored", "Altered", "Skimmed"],
+    "answer": "Analyzed",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 185,
+    "question": "Which word fits best in the sentence: The teacher gave a very _______ explanation, making it easier to understand.",
+    "choices": ["Clear", "Vague", "Confusing", "Misleading"],
+    "answer": "Clear",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 186,
+    "question": "Select the correctly spelled word:",
+    "choices": ["Supercede", "Succeed", "Recieve", "Occured"],
+    "answer": "Succeed",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 187,
+    "question": "Which of the following pairs of words are antonyms?",
+    "choices": ["Hot, Cold", "Bright, Shiny", "Quick, Fast", "Strong, Mighty"],
+    "answer": "Hot, Cold",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 188,
+    "question": "Which word is the odd one out?",
+    "choices": ["Pen", "Paper", "Notebook", "Pencil"],
+    "answer": "Paper",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 189,
+    "question": "Which sentence is correctly punctuated?",
+    "choices": [
+      "I can’t believe it’s already November!",
+      "I cant believe its already November!",
+      "I cant believe its already November.",
+      "I can’t believe its already November."
+    ],
+    "answer": "I can’t believe it’s already November!",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 190,
+    "question": "Identify the synonym of 'abundant':",
+    "choices": ["Plentiful", "Scarce", "Limited", "Meager"],
+    "answer": "Plentiful",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 191,
+    "question": "Which sentence is correct?",
+    "choices": ["He and I went to the store.", "Him and me went to the store.", "Me and him went to the store.", "Him and I went to the store."],
+    "answer": "He and I went to the store.",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 192,
+    "question": "Find the synonym of the word 'diligent'.",
+    "choices": ["Lazy", "Hardworking", "Careless", "Indifferent"],
+    "answer": "Hardworking",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 193,
+    "question": "Identify the odd one out:",
+    "choices": ["Dog", "Chair", "Cat", "Bird"],
+    "answer": "Chair",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 194,
+    "question": "What is the best meaning of the idiom: 'Hit the nail on the head'?",
+    "choices": ["To describe something accurately", "To hammer a nail precisely", "To injure oneself", "To make a mistake"],
+    "answer": "To describe something accurately",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 195,
+    "question": "Complete the sentence: The ______ of the book was unexpected and left readers surprised.",
+    "choices": ["Start", "Middle", "Ending", "Title"],
+    "answer": "Ending",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 196,
+    "question": "Choose the correctly spelled word:",
+    "choices": ["Mischievious", "Mischievous", "Mischevous", "Misheivous"],
+    "answer": "Mischievous",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 197,
+    "question": "Which sentence uses the word 'their' correctly?",
+    "choices": [
+      "Their car is parked outside.",
+      "There car is parked outside.",
+      "They're car is parked outside.",
+      "The car is their's parked outside."
+    ],
+    "answer": "Their car is parked outside.",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 198,
+    "question": "Complete the analogy: 'Writer' is to 'Book' as 'Painter' is to?",
+    "choices": ["Canvas", "Easel", "Painting", "Brush"],
+    "answer": "Painting",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 199,
+    "question": "Which of the following is a homophone for the word 'reed'?",
+    "choices": ["Read", "Lead", "Red", "Raid"],
+    "answer": "Read",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
+  },
+  {
+    "id": 200,
+    "question": "What does the word 'benevolent' mean?",
+    "choices": ["Cruel", "Kind", "Angry", "Indifferent"],
+    "answer": "Kind",
+    "type": "multiple-choice",
+    "exam": "AFPSAT XI"
   }
 ]
