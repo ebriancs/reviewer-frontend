@@ -4,9 +4,11 @@ import Footer from './component/Footer';
 import CSE from './component/CSE';
 import AFPSAT from './component/AFPSAT';
 
+const BASENAME = process.env.REACT_APP_BASENAME;
+
 function App() {
   return (
-    <Router>
+    <Router basename={BASENAME}>
       <div className="min-h-screen flex flex-col bg-background text-text">
         <Navbar />
 
