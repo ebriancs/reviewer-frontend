@@ -1,14 +1,12 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './component/Navbar';
 import Footer from './component/Footer';
 import CSE from './component/CSE';
 import AFPSAT from './component/AFPSAT';
 
-const BASENAME = process.env.REACT_APP_BASENAME;
-
 function App() {
   return (
-    <Router basename={BASENAME}>
+    <Router>
       <div className="min-h-screen flex flex-col bg-background text-text">
         <Navbar />
 
